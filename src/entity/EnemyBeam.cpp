@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Util.hpp"
+#include "infra/Util.hpp"
 #include "entity/GameController.hpp"
 #include "entity/EnemyBeam.hpp"
 #include "entity/Fighter.hpp"
