@@ -1,6 +1,6 @@
 CXX = g++
 # Флаги компиляции: путь к заголовкам SFML, стандарт C++17 (или 11, смотрите код)
-CXXFLAGS = -Iinclude -std=c++17 -Wall
+CXXFLAGS = -Iinclude -std=c++17 -Wall -march=x86-64 -mno-avx -mno-sse4
 # Флаги линковки: библиотеки SFML (порядок важен!)
 LDFLAGS = -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
