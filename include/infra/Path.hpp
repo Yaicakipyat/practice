@@ -22,7 +22,7 @@ namespace ol
             Vec2& getLastPoint();
             Vec2 getControlPoint(int i);
             Vec2 getPoint(float t);
-            Vec2 getsTangent(float t);
+            Vec2 getTangent(float t);
 
             void draw(Renderer& renderer);
 
