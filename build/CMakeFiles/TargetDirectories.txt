@@ -1,0 +1,3 @@
+/home/ghbdt/bauman/practice/practice/build/CMakeFiles/galaga.dir
+/home/ghbdt/bauman/practice/practice/build/CMakeFiles/edit_cache.dir
+/home/ghbdt/bauman/practice/practice/build/CMakeFiles/rebuild_cache.dir

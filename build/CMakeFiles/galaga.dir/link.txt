@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/galaga.dir/main.cpp.o CMakeFiles/galaga.dir/Game.cpp.o CMakeFiles/galaga.dir/Shapes.cpp.o -o galaga  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 
